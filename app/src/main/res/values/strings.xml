@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Music Shop</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="guitar_sale">guitar sale</string>
+    <string name="user_name">Your name</string>
+    <string name="sale_30">Sale -30%</string>
+    <string name="select_item">Select Item</string>
+    <string name="one_item">One Item</string>
+    <string name="order_price">Order Price</string>
+    <string name="currency">$</string>
+    <string name="empty">0</string>
+    <string name="quantity">Quantity</string>
+    <string name="sub">-</string>
+    <string name="add">+</string>
+    <string name="cnt_items">0</string>
+</resources>
