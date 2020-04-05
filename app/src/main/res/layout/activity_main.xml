@@ -137,7 +137,8 @@
                 android:background="@color/colorPrimaryDark"
                 android:text="@string/sub"
                 android:textColor="@android:color/white"
-                android:textSize="18sp" />
+                android:textSize="18sp"
+                android:onClick="decreaseQuantity"/>
 
             <TextView
                 android:id="@+id/countItems"
@@ -162,7 +163,8 @@
                 android:background="@color/colorPrimaryDark"
                 android:text="@string/add"
                 android:textColor="@android:color/white"
-                android:textSize="18sp" />
+                android:textSize="18sp"
+                android:onClick="increaseQuantity"/>
 
 
         </RelativeLayout>
