@@ -13,4 +13,9 @@
     <string name="sub">-</string>
     <string name="add">+</string>
     <string name="cnt_items">0</string>
+    <string name="customer_name_label">Customer name:</string>
+    <string name="goods_name_label">Goods name:</string>
+    <string name="order_price_label">Order Price:</string>
+    <string name="price_label">Price:</string>
+    <string name="quantity_label">Quantity:</string>
 </resources>
